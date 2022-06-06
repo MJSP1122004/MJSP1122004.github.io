@@ -1,5 +1,4 @@
-## Personal Website by Niklas Leon Kluge
-### Welcome to my personal journey following my development at the Modern Japanese Program at Hokkaido University using Github and Jupyter Notebooks.
+## Academic Research 
 
 I am an undergraduate student at Hokkaido University, where I am enrolled in the Modern Japanese Studies Program (現代日本学プログラム課程).
 Aside from broadening my knowledge of Japanese history, culture, economics, and politics, this course allows me to pursue and conduct research on personal interests. Specifically, how rural areas can be improved and revitalized, as well as how urban space can be more productively utilized, and how technology can aid in this process.
