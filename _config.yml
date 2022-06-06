@@ -1,6 +1,9 @@
 theme: jekyll-theme-minimal
 title: [Personal Website by Niklas Leon Kluge]
-description: [Welcome to my personal journey following my development at the Modern Japanese Program at Hokkaido University using Github and Jupyter Notebooks.]
-Logo: ![images](https://user-images.githubusercontent.com/103370122/172083431-37e232ea-fdb1-43d2-bc5d-497f3fad5524.png)
+description: [![images](https://user-images.githubusercontent.com/103370122/172083431-37e232ea-fdb1-43d2-bc5d-497f3fad5524.png]
+Logo: 
 
+
+
+Welcome to my personal journey following my development at the Modern Japanese Program at Hokkaido University using Github and Jupyter Notebooks.
 
