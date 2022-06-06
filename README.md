@@ -6,8 +6,8 @@ I am intrested in the developpment and revitalisation in of rural space and how 
 
 Reading notes and recent work on various topics can be found here:
 
-[Reading_Notes_Japanese-History-I-Between-War-and-Peace]: https://github.com/NLKLuge/Reading_Notes_Japanese-History-I-Between-War-and-Peace
+[Reading_Notes_Japanese-History-I-Between-War-and-Peace](https://github.com/NLKLuge/Reading_Notes_Japanese-History-I-Between-War-and-Peace)
 
-[Reading_Notes_Mindhacks_MJSP]: https://github.com/NLKLuge/Reading_Notes_Mindhacks_MJSP
+[Reading_Notes_Mindhacks_MJSP](https://github.com/NLKLuge/Reading_Notes_Mindhacks_MJSP)
 
-[Reading_reflection_multiculturality_MJSP]: https://github.com/NLKLuge/Reading_reflection_multiculturality_MJSP
+[Reading_reflection_multiculturality_MJSP](https://github.com/NLKLuge/Reading_reflection_multiculturality_MJSP)
