@@ -22,7 +22,7 @@ In my spare time, I like to go trekking, spend time at home cooking and trying o
 
 
 ### Contact 
-Email: niklasleon.kluge-.t1@elms.hokudai.ac.jp
+Email: 
 
 ![123456](https://user-images.githubusercontent.com/103370122/172083080-3f96146a-9b6f-4762-88b1-6c56bc840e60.jpg)
 
